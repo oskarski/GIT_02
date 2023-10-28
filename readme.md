@@ -1,4 +1,4 @@
-# Zadanie 3 - GIT
+# Zadanie 4 - GIT
 
 1. Pobierz plik zip i go rozpakuj
 
