@@ -1,9 +1,9 @@
 # Zadanie 4 - GIT
 
-1. Pobierz plik zip i go rozpakuj
+1. Zrób fork tego repozytorium
 
-2. W rozpakowanym katalogu stwórz nowe repozytorium git
+2. Sklonuj fork repozytorium na swoją maszynę
 
-3. Skomituj wszystkie pliki poza logami ( w projekcie są 3 takie pliki ) oraz plikiem .env
+3. Podaj autora i datę commita o tytule: replaced "Smaczne" with "Pyszne"
 
-4. Stwórz nowe repozytorium na GitHub i prześlij swoje zmiany do GitHub
+4. Podaj godzinę ostatniego commita z dnia 28.10.2023
