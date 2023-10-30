@@ -6,8 +6,8 @@
 
 3. Podaj autora i datę commita o tytule: replaced "Smaczne" with "Pyszne"
     ```
-    Autor: Oskar Kupski <oskar.kupski@gmail.com>
-    Data:   Sat Oct 28 15:33:15 2023 +0100
+    Author: Oskar Kupski <oskar.kupski@gmail.com>
+    Date:   Sat Oct 28 19:03:05 2023 +0100
     ```
 
 4. Podaj godzinę ostatniego commita z dnia 28.10.2023 - `23:52:51`
